@@ -81,7 +81,7 @@ Designed for beginners and security enthusiasts who want a simple yet effective 
 
 &#x20;  ```bash
 
-&#x20;  git clone https://github.com/<your-username>/Vuln-Scanner-Cys.git
+&#x20;  git clone https://github.com/RakanAlfaifi/Vuln-Scanner-Cys
 
 &#x20;  cd Vuln-Scanner-Cys
 
